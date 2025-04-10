@@ -4,20 +4,20 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/ritik-asija-375905247)  
 
 ## 🚀 About Me
-Passionate **Java Full Stack Developer** with 1 year of experience, specializing in **Spring Boot, React.js, and RESTful APIs**.
+Passionate **Php Full Stack Developer** with 1 year of experience, specializing in **Laravel, React.js, and RESTful APIs**.
 Skilled in leveraging **AI-powered tools** like ChatGPT, DeepSeek, V0.dev, and Mistral (Ollama) to enhance development speed, accuracy, and productivity. 
 Strong problem-solving skills, Agile development expertise, and a keen interest in building **scalable web applications**.
 
 ## 🛠️ Technical Skills
 - **Frontend:** HTML, CSS, Bootstrap, JavaScript, React
-- **Backend:** Core Java, Spring Boot, JDBC, Hibernate, Servlet
-- **Database:** MySQL, Oracle, MongoDB
+- **Backend:** Php, Laravel, REST APIs
+- **Database:** MySQL, Oracle
 - **Software & Tools:** Spring Tool Suite, VS Code, Eclipse, Git, GitHub, Postman, MQTTX
-- **Programming Languages:** Java, C, PHP
+- **Programming Languages:** Php,Java, C
 - **AI-Powered Tools:** ChatGPT, DeepSeek, V0.dev, Mistral (Ollama)
 
 ## 💼 Work Experience
-### Java Developer | Aqua Panel Pro (Jan 2025 - Present)
+### Php Laravel Developer | Aqua Panel Pro (Jan 2025 - Present)
 - Developed backend functionalities for IoT-based solar panel cleaning.
 - Implemented automated scheduling for water and soap dispensing.
 - Enabled manual motor activation for instant cleaning.
@@ -27,7 +27,7 @@ Strong problem-solving skills, Agile development expertise, and a keen interest 
 - Developed a Zapier workflow for Canva template automation.
 - Reduced manual effort by 20% and improved workflow efficiency.
 
-### Full Stack Java Developer | Aqua-Care (July 2024 - Nov 2024)
+### Full Stack Php Developer | Aqua-Care (July 2024 - Nov 2024)
 - Built backend functionalities to control electronic valves.
 - Implemented scene-based scheduling for motor activation.
 - Integrated real-time notifications for device status updates.
